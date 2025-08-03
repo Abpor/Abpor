@@ -95,5 +95,5 @@ AI-powered short-form content system that converts IT stories and helpdesk momen
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nCryptNZ&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" alt="Rob's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abpor&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=tokyonight" alt="Rob's GitHub stats" />
 </p>
